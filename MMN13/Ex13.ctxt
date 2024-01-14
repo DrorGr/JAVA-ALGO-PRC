@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ex13
+comment1.params=arr
+comment1.target=int\ maxMult3(int[])
+comment2.params=arr1\ arr2
+comment2.target=int\ findMedian(int[],\ int[])
+numComments=3
